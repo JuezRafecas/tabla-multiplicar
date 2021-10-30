@@ -7,3 +7,6 @@ npm uninstall
 Paquetes de node:
 colors
 yargs
+
+Git:
+git checkout --.
