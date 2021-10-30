@@ -1,0 +1,9 @@
+process me da las variables cargadas en el comando de la consola
+Comandos de node:
+npm init
+npm update
+npm install
+npm uninstall
+Paquetes de node:
+colors
+yargs
